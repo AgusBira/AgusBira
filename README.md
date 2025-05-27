@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hola!+soy+Agustin!;Soy+Frontend+Developer)](https://git.io/typing-svg)
 
@@ -9,8 +9,8 @@
 - 👯 Busco colaborar en proyectos de frontend innovadores
 - 🤔 Ofrezco servicios de desarrollo frontend como freelancer
 - 💬 Pregúntame sobre desarrollo web y React
-- 📫 Contáctame: [LinkedIn](www.linkedin.com/in/agustin-birarelli-5a0645232) o agustin@email.com
-
+- 📫 Contáctame: [LinkedIn](https://www.linkedin.com/in/agustin-birarelli-5a0645232/)  o agusbira398@email.com
+- 💼 Te invito a ver mi [Portfolio](https://portfolio-agus-bira.vercel.app)
 <p>Conecta conmigo:
 <br>	
 <a target="_blank" href="www.linkedin.com/in/agustin-birarelli-5a0645232"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
